@@ -1,3 +1,4 @@
+package CommonMultiple;
 import java.util.Scanner;
 //두 수를 입력받아 100이하의 자연수 중 두 수의 공배수를 구하는 프로그램 작성
 public class CommonMultiple {
